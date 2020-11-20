@@ -15,6 +15,8 @@ A senior FullStack developer from Brazil, based in Fortaleza, Ceará.
 [![Fedora](https://img.shields.io/badge/OS-Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=ffffff)](https://getfedora.org/pt_BR/)
 [![Windows](https://img.shields.io/badge/OS-Windows-0067B8?style=for-the-badge&logo=Windows&logoColor=ffffff)](https://www.microsoft.com/pt-br/windows/)
 
+## IDEs & Text Editors
+
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![Vim](https://img.shields.io/badge/IDE-Vim-007f00?style=for-the-badge&logo=vim)](https://www.vim.org/)
 
