@@ -6,7 +6,7 @@ A senior FullStack developer from Brazil, based in Fortaleza, Ceará.
 
 ## About Me
 
-- 🌱 I’m currently learning [![NextJs](https://img.shields.io/badge/-005571?style=flat-square&logo=Next.js&logoColor=ffffff)](https://nextjs.org/)
+- 🌱 I’m currently learning [![NextJs](https://img.shields.io/badge/-Next.Js-005571?style=flat-square&logo=Next.js&logoColor=ffffff)](https://nextjs.org/)
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:dhanielr94@gmail.com) 
 
