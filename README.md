@@ -2,8 +2,6 @@
 
 A senior FullStack developer from Brazil, based in Fortaleza, Ceará.
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=dhanielsales&show_icons=true&theme=dracula" alt="dhanielsales" /></p>
-
 ## About Me
 
 - 🌱 I’m currently learning [![NextJs](https://img.shields.io/badge/-Next.Js-005571?style=flat-square&logo=Next.js&logoColor=ffffff)](https://nextjs.org/)
