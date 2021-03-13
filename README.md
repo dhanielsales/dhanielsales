@@ -4,7 +4,9 @@ A senior FullStack developer from Brazil, based in Fortaleza, Ceará.
 
 ## About Me
 
-- 🌱 I’m currently learning [![GoDoc](https://img.shields.io/badge/GoLang-007d9c?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)
+- 🌱 I’m currently learning [![GoDoc](https://img.shields.io/badge/GoLang-007d9c?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)[![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=ffff)](https://elixir-lang.org/)
+
+
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:dhanielr94@gmail.com) 
 
