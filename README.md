@@ -4,7 +4,7 @@ A senior FullStack developer from Brazil, based in Fortaleza, Ceará.
 
 ## About Me
 
-- 🌱 I’m currently learning [![NextJs](https://img.shields.io/badge/-Next.Js-005571?style=flat-square&logo=Next.js&logoColor=ffffff)](https://nextjs.org/)
+- 🌱 I’m currently learning [![GoDoc](https://img.shields.io/badge/GoLang-007d9c?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:dhanielr94@gmail.com) 
 
@@ -25,6 +25,7 @@ A senior FullStack developer from Brazil, based in Fortaleza, Ceará.
 
 [![React](https://img.shields.io/badge/-React-57b5cf?style=flat-square&logo=React&logoColor=000)](https://pt-br.reactjs.org/)
 [![React Native](https://img.shields.io/badge/-ReactNative-448b9e?style=flat-square&logo=React&logoColor=000)](https://reactnative.dev/)
+[![NextJs](https://img.shields.io/badge/-Next.Js-005571?style=flat-square&logo=Next.js&logoColor=ffffff)](https://nextjs.org/)
 
 [![Java](https://img.shields.io/badge/-Java-C33?style=flat-square&logo=Java&logoColor=000000)](https://www.java.com/pt-BR/)
 [![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=Spring&logoColor=000000)](https://spring.io/)
