@@ -13,6 +13,7 @@ A senior FullStack developer from Brazil, based in Fortaleza, Ceará.
 ## Operating System & Tools
 
 [![Fedora](https://img.shields.io/badge/OS-Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=ffffff)](https://getfedora.org/pt_BR/)
+[![Pop!_OS](https://img.shields.io/badge/OS-Pop!_OS-6acad8?style=for-the-badge&logo=Pop!_OS&logoColor=ffffff)](https://pop.system76.com/)
 [![Windows](https://img.shields.io/badge/OS-Windows-0067B8?style=for-the-badge&logo=Windows&logoColor=ffffff)](https://www.microsoft.com/pt-br/windows/)
 
 ## IDEs & Text Editors
