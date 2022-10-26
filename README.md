@@ -4,9 +4,7 @@ A senior FullStack developer from Brazil, based in Fortaleza, Ceará.
 
 ## About Me
 
-- 🌱 I’m currently learning [![GoDoc](https://img.shields.io/badge/GoLang-007d9c?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)[![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=ffff)](https://elixir-lang.org/)
-
-
+- 🌱 I’m currently learning [![RustDoc](https://img.shields.io/badge/Rust-a42?style=flat-square&logo=Rust&logoColor=000)](https://www.rust-lang.org/)[![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=ffff)](https://elixir-lang.org/)
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:dhanielr94@gmail.com) 
 
@@ -23,6 +21,7 @@ A senior FullStack developer from Brazil, based in Fortaleza, Ceará.
 
 ## Technology Stack
 
+[![GoLang](https://img.shields.io/badge/GoLang-007d9c?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-4287f5?style=flat-square&logo=typescript&logoColor=000000)](https://www.typescriptlang.org/)
 
@@ -34,6 +33,7 @@ A senior FullStack developer from Brazil, based in Fortaleza, Ceará.
 [![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=Spring&logoColor=000000)](https://spring.io/)
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009485?style=flat-square&logo=FastAPI&logoColor=ffffff)](https://fastapi.tiangolo.com/)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
 
