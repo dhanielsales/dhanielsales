@@ -1,6 +1,6 @@
 # Hi, I'm Dhaniel Sales
 
-A senior FullStack developer from Brazil, based in Fortaleza, Ceará.
+I'm a senior backend developer. I work with Go, Python, Typescript and Rust.
 
 ## About Me
 
