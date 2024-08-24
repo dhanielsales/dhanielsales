@@ -6,7 +6,7 @@ I'm a senior backend developer. I work with Go, Python, Typescript and Rust.
 
 - 🌱 I’m currently learning [![RustDoc](https://img.shields.io/badge/Rust-a42?style=flat-square&logo=Rust&logoColor=000)](https://www.rust-lang.org/)[![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=ffff)](https://elixir-lang.org/)
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:dhanielr94@gmail.com) 
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:contact@dhanielsales.com.br) 
 
 ## Operating System & Tools
 
@@ -28,9 +28,6 @@ I'm a senior backend developer. I work with Go, Python, Typescript and Rust.
 [![React](https://img.shields.io/badge/-React-57b5cf?style=flat-square&logo=React&logoColor=000)](https://pt-br.reactjs.org/)
 [![React Native](https://img.shields.io/badge/-ReactNative-448b9e?style=flat-square&logo=React&logoColor=000)](https://reactnative.dev/)
 [![NextJs](https://img.shields.io/badge/-Next.Js-005571?style=flat-square&logo=Next.js&logoColor=ffffff)](https://nextjs.org/)
-
-[![Java](https://img.shields.io/badge/-Java-C33?style=flat-square&logo=Java&logoColor=000000)](https://www.java.com/pt-BR/)
-[![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=Spring&logoColor=000000)](https://spring.io/)
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009485?style=flat-square&logo=FastAPI&logoColor=ffffff)](https://fastapi.tiangolo.com/)
